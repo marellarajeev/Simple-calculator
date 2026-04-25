@@ -1,3 +1,4 @@
+
 # Simple Calculator Web App
 
 ## 🚀 Overview
@@ -23,4 +24,4 @@ A simple calculator built using HTML, CSS, and JavaScript that performs basic ar
 2. Open index.html in browser
 
 ## 📷 Output
-(Add screenshot here)
+<img width="1602" height="486" alt="cal" src="https://github.com/user-attachments/assets/9c3593a6-8246-4d99-8737-92f56188a4df" />
